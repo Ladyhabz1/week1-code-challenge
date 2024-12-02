@@ -1,23 +1,24 @@
-README Toy Problems Solutions
+### README Toy Problems Solutions
 
 This repository contains solutions to three programming challenges designed to test foundational problem-solving skills in JavaScript. Each solution is implemented as a standalone program and includes functions that can be tested and reused.
 
-README Toy Problems Solutions
+## README Toy Problems Solutions
 
-This repository contains solutions to three programming challenges designed to test foundational problem-solving skills in JavaScript. Each solution is implemented as a standalone program and includes functions that can be tested and reused. Table of Contents
+This repository contains solutions to three programming challenges designed to test foundational problem-solving skills in JavaScript. Each solution is implemented as a standalone program and includes functions that can be tested and reused. 
 
+## Table of Contents
 Programs Overview
-    Challenge 1: Student Grade Generator
-    Challenge 2: Speed Detector
-    Challenge 3: Net Salary Calculator
+    + [Challenge 1: Student Grade Generator](#challenge1.js)
+    + [Challenge 2: Speed Detector](#challenge2.js)
+   + [Challenge 3: Net Salary Calculator](challenge3.js)
 Getting Started
 Usage
 Testing
 Contributing
 License
-Programs Overview Challenge 1: Student Grade Generator
 
-This program calculates a student's grade based on their marks:
+## Programs Overview Challenge 1: Student Grade Generator
+# This program calculates a student's grade based on their marks:
 
 Input: A number between 0 and 100.
 Output: Corresponding grade:
@@ -26,9 +27,10 @@ Output: Corresponding grade:
     C for marks between 50 and 59
     D for marks between 40 and 49
     E for marks below 40.
-Challenge 2: Speed Detector
 
-This program checks the speed of a vehicle and calculates demerit points:
+## Challenge 2: Speed Detector
+
+# This program checks the speed of a vehicle and calculates demerit points:
 
 Input: Speed of the vehicle (in km/h).
 Output:
@@ -38,9 +40,9 @@ Output:
     \
 Example: checkSpeed(80); // Output: "Points: 2" checkSpeed(130); // Output: "Points: 12" checkSpeed(140); // Output: "License suspended"
 
-Challenge 3: Net Salary Calculator
+## Challenge 3: Net Salary Calculator
 
-This program calculates an employee's net salary based on their basic salary and benefits:
+# This program calculates an employee's net salary based on their basic salary and benefits:
 
 Inputs:
     Basic Salary.
@@ -55,12 +57,13 @@ Prerequisites
 
 Node.js installed on your system.
 A text editor or IDE (e.g., VSCode).
-Installation
+
+## Installation
 
 Clone this repository:
-git clone https://github.com/KairuMaina/Code-challange-Week-1
+git clone https://github.com/Ladyhabz1/Code-challange-Week-1
 
-Navigate to the project directory:
+# Navigate to the project directory:
 
 cd Code-challange-week-1
 
@@ -87,7 +90,7 @@ test('Calculates correct grade', () => {
   expect(getStudentGrade(85)).toBe("A");
   expect(getStudentGrade(45)).toBe("D");
 });
-Contributing
+# Contributing
 
 Contributions are welcome! If you'd like to improve or expand on these programs:
 
@@ -104,6 +107,8 @@ Push your branch:
 git push origin feature/your-feature-name
 
 Submit a pull request.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Authors Info
+Can be reached by the email below for questions and comments 
+
+[Email](guyohabibahassan@gmail.com)
