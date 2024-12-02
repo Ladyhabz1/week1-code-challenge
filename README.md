@@ -105,10 +105,6 @@ git commit -m "Add your message here"
 
 Push your branch:
 
-git push origin feature/your-feature-name
-
-Submit a pull request.
-
 ## Contacts Information
 
 Can be reached by the email below for questions and comments 
