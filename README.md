@@ -23,12 +23,13 @@ Contact Information
 
 Input: A number between 0 and 100.
 Output: Corresponding grade:
+   ```bash
     A for marks > 79
     B for marks between 60 and 79
     C for marks between 50 and 59
     D for marks between 40 and 49
     E for marks below 40.
-
+```
 ## Challenge 2: Speed Detector
 
 ### This program checks the speed of a vehicle and calculates demerit points:
@@ -67,31 +68,30 @@ git clone https://github.com/Ladyhabz1/Code-challange-Week-1
 ```
 ### Navigate to the project directory:
 
-cd Code-challange-week-1
+- cd Code-challange-week-1
 
-Run the scripts directly using Node.js:
-
+- Run the scripts directly using Node.js:
+```bash
 challenge1.js
 challenge2.js
 challenge3.js
 Usage
+```
+- Open the respective script file (challenge1.js challenge2.js challenge3.js).
 
-Open the respective script file (challenge1.js challenge2.js challenge3.js).
-
-Modify the input values in the code or prompt the user to input values interactively.
-Run the script to view the output.
-Testing Manual Testing
-
-Update the function calls in the script files with test cases provided in the comments.
+- Modify the input values in the code or prompt the user to input values interactively.
+- Run the script to view the output.
+- Testing Manual Testing
+- Update the function calls in the script files with test cases provided in the comments.
 Automated Testing
-
-Use a testing framework like Jest to write unit tests for each function.
+- Use a testing framework like Jest to write unit tests for each function.
 Sample Jest test:
-
+```bash
 test('Calculates correct grade', () => {
   expect(getStudentGrade(85)).toBe("A");
   expect(getStudentGrade(45)).toBe("D");
 });
+```
 ## Contribution
 
 Contributions are welcome! If you'd like to improve or expand on these programs:
