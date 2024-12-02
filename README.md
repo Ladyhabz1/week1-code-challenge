@@ -54,7 +54,7 @@ Example:
 
 calculateNetSalary(50000, 10000); // Output: // Gross Salary: 60000 // PAYEE: 8200 // NHIF: 1300 // NSSF: 3600 // Net Salary: 46900
 
-Prerequisites
+## Prerequisites
 
 Node.js installed on your system.
 A text editor or IDE (e.g., VSCode).
