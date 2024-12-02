@@ -8,17 +8,18 @@ This repository contains solutions to three programming challenges designed to t
 
 ## Table of Contents
 Programs Overview
-    + [Challenge 1: Student Grade Generator](#challenge1.js)
-    + [Challenge 2: Speed Detector](#challenge2.js)
+   + [Challenge 1: Student Grade Generator](#challenge1.js)
+   + [Challenge 2: Speed Detector](#challenge2.js)
    + [Challenge 3: Net Salary Calculator](challenge3.js)
 Getting Started
 Usage
 Testing
 Contributing
-License
+Contact Information
 
-## Programs Overview Challenge 1: Student Grade Generator
-# This program calculates a student's grade based on their marks:
+# Programs Overview Challenge 1: Student Grade Generator
+
+## This program calculates a student's grade based on their marks:
 
 Input: A number between 0 and 100.
 Output: Corresponding grade:
@@ -40,9 +41,9 @@ Output:
     \
 Example: checkSpeed(80); // Output: "Points: 2" checkSpeed(130); // Output: "Points: 12" checkSpeed(140); // Output: "License suspended"
 
-## Challenge 3: Net Salary Calculator
+# Challenge 3: Net Salary Calculator
 
-# This program calculates an employee's net salary based on their basic salary and benefits:
+## This program calculates an employee's net salary based on their basic salary and benefits:
 
 Inputs:
     Basic Salary.
