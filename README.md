@@ -62,20 +62,21 @@ A text editor or IDE (e.g., VSCode).
 ## Installation
 
 Clone this repository:
-git clone https://github.com/Ladyhabz1/Code-challange-Week-1
-
+```bash
+git clone https://github.com/Ladyhabz1/Code-challange-Week-1 
+```
 ### Navigate to the project directory:
 
 cd Code-challange-week-1
 
 Run the scripts directly using Node.js:
 
-netsalary.js
-studentgrades.js
-speeddetector.js
+challenge1.js
+challenge2.js
+challenge3.js
 Usage
 
-Open the respective script file (netsalary.js studentgrades.js speeddetector.js).
+Open the respective script file (challenge1.js challenge2.js challenge3.js).
 
 Modify the input values in the code or prompt the user to input values interactively.
 Run the script to view the output.
@@ -95,15 +96,12 @@ test('Calculates correct grade', () => {
 
 Contributions are welcome! If you'd like to improve or expand on these programs:
 
-Fork the repository.
-Create a new branch:
-git checkout -b feature/your-feature-name
-
-Make your changes and commit:
-
-git commit -m "Add your message here"
-
-Push your branch:
+- Fork the repository.
+- Create a new branch:
+- git checkout -b feature/your-feature-name
+- Make your changes and commit:
+- git commit -m "Add your message here"
+- Push your branch:
 
 ## Contacts Information
 
